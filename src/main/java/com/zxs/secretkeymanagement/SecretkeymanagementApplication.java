@@ -6,7 +6,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 
 @SpringBootApplication
-@MapperScan("com.snc.secretkeymanagement.mapper")
+@MapperScan("com.zxs.secretkeymanagement.mapper")
 public class SecretkeymanagementApplication {
 
 	public static void main(String[] args) {

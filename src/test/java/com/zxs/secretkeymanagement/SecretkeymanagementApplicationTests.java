@@ -1,4 +1,4 @@
-package com.sns.secretkeymanagement;
+package com.zxs.secretkeymanagement;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

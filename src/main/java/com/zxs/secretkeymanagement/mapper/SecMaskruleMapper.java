@@ -1,7 +1,7 @@
-package com.snc.secretkeymanagement.mapper;
+package com.zxs.secretkeymanagement.mapper;
 
 
-import com.snc.secretkeymanagement.entity.SecMaskrule;
+import com.zxs.secretkeymanagement.entity.SecMaskrule;
 public interface SecMaskruleMapper {
     int deleteByPrimaryKey(Long maskruleId);
 

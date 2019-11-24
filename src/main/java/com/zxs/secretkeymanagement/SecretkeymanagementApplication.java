@@ -1,4 +1,4 @@
-package com.snc.secretkeymanagement;
+package com.zxs.secretkeymanagement;
 
 import org.mybatis.spring.annotation.MapperScan;
 import org.springframework.boot.SpringApplication;

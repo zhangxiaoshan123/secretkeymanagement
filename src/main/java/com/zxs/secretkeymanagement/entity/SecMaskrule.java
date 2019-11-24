@@ -1,4 +1,4 @@
-package com.snc.secretkeymanagement.entity;
+package com.zxs.secretkeymanagement.entity;
 
 import java.io.Serializable;
 import java.util.Date;

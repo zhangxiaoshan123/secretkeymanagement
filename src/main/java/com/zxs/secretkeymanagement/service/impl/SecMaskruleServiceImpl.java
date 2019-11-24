@@ -1,11 +1,11 @@
-package com.snc.secretkeymanagement.service.impl;
+package com.zxs.secretkeymanagement.service.impl;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
-import com.snc.secretkeymanagement.entity.SecMaskrule;
-import com.snc.secretkeymanagement.mapper.SecMaskruleMapper;
-import com.snc.secretkeymanagement.service.SecMaskruleService;
+import com.zxs.secretkeymanagement.entity.SecMaskrule;
+import com.zxs.secretkeymanagement.mapper.SecMaskruleMapper;
+import com.zxs.secretkeymanagement.service.SecMaskruleService;
 
 @Service
 public class SecMaskruleServiceImpl implements SecMaskruleService {
